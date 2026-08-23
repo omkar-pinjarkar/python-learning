@@ -17,10 +17,3 @@ print("a is greater than b is", a>b)
 
 
 print("------------------------------------------------")
-
-a = input("Enter the value of a: ")
-b = input("Enter the value of b: ")
-c = input("Enter the operator (+, -, *, /): ")
-
-# Simple string concatenation
-print(a + " " + c + " " + b + " = ???")
